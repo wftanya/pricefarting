@@ -1,5 +1,5 @@
 # pricefarting
-Launch the Price Charting page but spoofed with another game's title.
+Display a Price Charting page but spoofed with another game's title.
 
 This code runs as a bookmarklet in a mobile browser via minified bookmarklet code. Use https://caiorss.github.io/bookmarklet-maker/ to get the up-to-date bookmarklet by copy and pasting the contents of `price-farting.js` into it.
 
